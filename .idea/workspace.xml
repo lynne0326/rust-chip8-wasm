@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e8b5b4a-54b0-44be-8aae-e7ff960aab24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chip8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/www/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="a34iyl37" />
+  </component>
+  <component name="ProjectId" id="1bsxE9UPbWUeJ40bN3L2vfiwGYy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Rust" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/Users/lynne/Documents/rust/chip8/src/cpu.rs" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/Users/lynne/Documents/rust/chip8/src/keyboard.rs" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/Users/lynne/Documents/rust/chip8/src/screen.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Cargo Command.Test cpu::tests::test_">
+    <configuration name="Test cpu::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package chip8 --lib cpu::tests" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test cpu::tests::test_" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package chip8 --lib cpu::tests::test_ -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test cpu::tests::test_op_8x0e" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package chip8 --lib cpu::tests::test_op_8x0e -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test cpu::tests::test_op_fx0a" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package chip8 --lib cpu::tests::test_op_fx0a -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test cpu::tests::test_op_fx15" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package chip8 --lib cpu::tests::test_op_fx15 -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Test cpu::tests::test_" />
+        <item itemvalue="Cargo Command.Test cpu::tests::test_op_fx0a" />
+        <item itemvalue="Cargo Command.Test cpu::tests::test_op_8x0e" />
+        <item itemvalue="Cargo Command.Test cpu::tests" />
+        <item itemvalue="Cargo Command.Test cpu::tests::test_op_fx15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8b5b4a-54b0-44be-8aae-e7ff960aab24" name="Default Changelist" comment="" />
+      <created>1589434488117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589434488117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="625" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590206961054">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="100" y="123" width="1240" height="625" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1590206961054" />
+    <state x="443" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589864194733">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="443" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1589864194733" />
+    <state x="593" y="339" key="Github.ShareDialog" timestamp="1589434943509">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="593" y="339" key="Github.ShareDialog/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1589434943509" />
+    <state x="555" y="147" key="Github.UntrackedFilesDialog" timestamp="1589434959671">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="555" y="147" key="Github.UntrackedFilesDialog/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1589434959671" />
+    <state width="1398" height="343" key="GridCell.Tab.0.bottom" timestamp="1590218553652">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.0.bottom/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1590218553652" />
+    <state width="1398" height="343" key="GridCell.Tab.0.center" timestamp="1590218553649">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.0.center/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1590218553649" />
+    <state width="1398" height="343" key="GridCell.Tab.0.left" timestamp="1590218553648">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.0.left/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1590218553648" />
+    <state width="1398" height="343" key="GridCell.Tab.0.right" timestamp="1590218553651">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="343" key="GridCell.Tab.0.right/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1590218553651" />
+    <state x="353" y="73" key="SettingsEditor" timestamp="1589597642179">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="353" y="73" key="SettingsEditor/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1589597642179" />
+    <state x="561" y="-817" key="VCS.ChangeListViewerDialog" timestamp="1590731660418">
+      <screen x="-239" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="561" y="-817" key="VCS.ChangeListViewerDialog/0.23.1440.825/-239.-1057.1920.1057@-239.-1057.1920.1057" timestamp="1590731660418" />
+    <state x="418" y="158" width="604" height="582" key="find.popup" timestamp="1590196989424">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="418" y="158" width="604" height="582" key="find.popup/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1590196989424" />
+    <state x="513" y="-660" key="git4idea.rebase.GitRebaseDialog" timestamp="1590731666758">
+      <screen x="-239" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="513" y="-660" key="git4idea.rebase.GitRebaseDialog/0.23.1440.825/-239.-1057.1920.1057@-239.-1057.1920.1057" timestamp="1590731666758" />
+    <state x="542" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589434531204">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="542" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1589434531204" />
+    <state x="385" y="198" key="run.anything.popup" timestamp="1589860414224">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="385" y="198" key="run.anything.popup/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1589860414224" />
+    <state x="520" y="301" key="scopes" timestamp="1589435495008">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="520" y="301" key="scopes/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1589435495008" />
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup" timestamp="1590219457843">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825/-239.-1057.1920.1057@0.23.1440.825" timestamp="1590219457843" />
+  </component>
+</project>
